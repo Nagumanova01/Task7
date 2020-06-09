@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591666372 source:h:\taski\2 semestr\1\massa3\main.cpp
+	<iostream>
+	<ctime>
+	<list>
+	<stdlib.h>
+	<time.h>
+	<locale>
+	<windows.h>
+
